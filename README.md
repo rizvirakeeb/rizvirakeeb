@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rizvirakeeb
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning coding on very basics
-- 💞️ I’m looking to collaborate on studiying
+- 💞️ I’m looking to collaborate on studying
 - 📫 How to reach me mail 📧 2rizvirakeeb@gmail.com
 
 <!---
